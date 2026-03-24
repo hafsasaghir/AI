@@ -1,0 +1,6 @@
+emp_id,name,dept_id,salary,salary_category
+1,Ali,101,50000.0,Low
+2,Sara,102,70000.0,Medium
+3,John,101,90000.0,High
+4,Ayesha,103,60000.0,Low
+5,Usman,102,,
